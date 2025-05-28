@@ -1,29 +1,29 @@
-# AI Code Translator
+# Traductor de Código con IA
 
-Use AI to translate code from one language to another.
+Usa IA para traducir código de un lenguaje a otro.
 
-![AI Code Translator](./public/screenshot.png)
+![Traductor de Código con IA](./public/screenshot.png)
 
-## Running Locally
+## Ejecución local
 
-**1. Clone Repo**
+**1. Clonar repositorio**
 
 ```bash
 git clone https://github.com/mckaywrigley/ai-code-translator.git
 ```
 
-**2. Install Dependencies**
+**2. Instalar dependencias**
 
 ```bash
 npm i
 ```
 
-**3. Run App**
+**3. Ejecutar aplicación**
 
 ```bash
 npm run dev
 ```
 
-## Contact
+## Contacto
 
-If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/mckaywrigley).
+Si tienes alguna pregunta, no dudes en contactarme en [Twitter](https://twitter.com/mckaywrigley). 
